@@ -1,0 +1,40 @@
+.container {
+    width: 60vw;
+    height: 100vh;
+    margin: 70px auto;
+}
+
+.container p {
+    margin-top: 100px;
+    font-family: "Rubik",sans-serif;
+    font-size: 1.5em;
+    font-weight: 700;
+    letter-spacing: 0.8px;
+}
+
+.newform{
+    margin-top: 2rem;
+}
+
+.newform input{
+    margin: 0.4rem;
+}
+
+.btn{
+    margin : 0.6rem;
+    background-color: #3C5A5F;
+    font-family: "Rubik",sans-serif;
+    color: white;
+}
+
+textarea{
+    width: 100%;
+    margin: 5px;
+    font-size: 1.2em;
+    padding: 8px;
+    border: none;
+    color : rgb(124, 120, 120);
+    outline: none;
+    background-color: rgba(0, 0, 0, 0.103);
+    border-radius: 5px;
+}

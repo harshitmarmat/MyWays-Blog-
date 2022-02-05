@@ -1,0 +1,27 @@
+.box{
+    width:200px;
+    height:250px;
+    margin-top: 3rem;
+    padding: 0;
+}
+
+.box img{
+    text-align: center;
+    margin: 20px 50px;
+    width: 70px;
+    height: 70px;
+    border-radius:12px;
+}
+.box div{
+    text-align: center;
+}
+.box p{
+    font-size: 1em;
+    font-family: "Rubik",sans-serif;
+    margin:20px auto;
+}
+
+.active{
+    font-family: "Rubik",sans-serif;
+    text-decoration: none;
+}
